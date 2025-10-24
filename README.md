@@ -1,1 +1,2 @@
-# Patient-Record-Management-System-By-Manish
+# Patient Record Management System (PRMS) - Tkinter GUI
+...

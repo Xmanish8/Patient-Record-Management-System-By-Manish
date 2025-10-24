@@ -187,7 +187,8 @@ python main.py
 
 ### **New Full Functional Version**
 
-
+---
+[Compare old vs new](https://github.com/Xmanish8/Patient-Record-Management-System-By-Manish/compare/PRMS_Tkinter_Project...full-functional-version)
 ---
 
 ## 📊 **Features in Action**

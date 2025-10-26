@@ -1,8 +1,10 @@
+
 # 🏥 Patient Record Management System (PRMS) by Manish Marathe
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)](https://www.mysql.com/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)](https://docs.python.org/3/library/tkinter.html)
+![Python PRMS CI](https://github.com/Xmanish8/Patient-Record-Management-System-By-Manish/actions/workflows/python-prms.yml/badge.svg)
 
 ---
 
